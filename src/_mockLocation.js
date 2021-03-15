@@ -1,3 +1,7 @@
+/*
+    This file was made to test the application without walking around the city
+*/
+
 import * as Location from 'expo-location'
 
 const tenMetersWithDegrees = 0.0001
